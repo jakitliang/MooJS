@@ -218,7 +218,7 @@
 			 * @param string url         接口地址
 			 * @param function callback  回调函数
 			 */
-			this.upload = function (file, url, type, name, callback) {
+			this.upload = function (file, url, name, callback) {
 				var fd = new FormData();
 				fd.append(name, file);
 
