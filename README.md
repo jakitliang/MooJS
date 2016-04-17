@@ -24,14 +24,14 @@ In order to save your time, there is a quick guide help you use MooJS.
 
 为了节省您的宝贵时间，这里给你提供 MooJS 的速成指南。
 
-1. Get Involved
-2. Data Listing
-   1. Table
-   2. Select
-3. Data Paging
-4. Template
-5. cURL
-6. Lazy Clock
+1. [Get Involved](#Get Involved)
+2. [Data Listing](#Data Listing)
+   1. [Table](#Table)
+   2. [Select](#Select)
+3. [Data Paging](#Data Paging)
+4. [Template](#Template)
+5. [cURL](#cURL)
+6. [Lazy Clock](#Lazy Clock)
 
 ###Get Involved
 
@@ -111,7 +111,7 @@ Then, load the data into select just do like this:
 list.select($('select'), data, attr);
 ```
 
-### Paging
+### Data Paging
 
 First, you may put a ul into html to use as a container of pagination.
 
