@@ -24,14 +24,14 @@ In order to save your time, there is a quick guide help you use MooJS.
 
 为了节省您的宝贵时间，这里给你提供 MooJS 的速成指南。
 
-1. [Get Involved](#Get Involved)
-2. [Data Listing](#Data Listing)
-   1. [Table](#Table)
-   2. [Select](#Select)
-3. [Data Paging](#Data Paging)
-4. [Template](#Template)
-5. [cURL](#cURL)
-6. [Lazy Clock](#Lazy Clock)
+1. [Get Involved](#get-involved)
+2. [Data Listing](#data-listing)
+   1. [Table](#table)
+   2. [Select](#select)
+3. [Data Paging](#data-paging)
+4. [Template](#template)
+5. [cURL](#curl)
+6. [Lazy Clock](#lazy-clock)
 
 ###Get Involved
 
