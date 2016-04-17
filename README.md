@@ -231,3 +231,16 @@ Moo.lazy(function() {
 }, 100, 10);
 ```
 
+## Why named Moo?
+
+Some people ask me why it named Moo? Moo moo here and there, you are too loud!
+
+有些朋友肯定很好奇它干嘛要哞哞叫？这里哞哞那里哞哞的，你好吵。
+
+Yes, I'm loud for you and me and everybody!
+
+是的，我就要这么大声，当着众人的面。
+
+Okay, just for fun!
+
+好啦，开个玩笑啦！
